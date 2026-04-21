@@ -1,0 +1,12 @@
+Total Books:
+python - 1
+java - 2
+gate - 2
+
+Borrowed Books: 
+java - 1
+
+Available Books: 
+python - 1
+java - 1
+gate - 2
